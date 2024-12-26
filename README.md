@@ -139,7 +139,8 @@ Figma
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/29009485-f9ac-4edb-8c8b-126d00166e37)
+![Screenshot (46)](https://github.com/user-attachments/assets/79ae3642-35c7-4de6-8981-24b3aab31e0a)
+
 
 
 ## RESULT:
